@@ -1,0 +1,60 @@
+List<Map<String,dynamic>> Categoris=[
+  {
+    'image':'assets/categories/vegetabels.png',
+    'color':'#E6F2EA',
+    'title':'vegetabels'
+  },
+  {
+    'image':'assets/categories/Grocery.png',
+    'color':'#F3EFFA',
+    'title':'Grocery'
+  },
+  {
+    'image':'assets/categories/fruit.png',
+    'color':'#FFE9E5',
+    'title':'Fruits'
+  },
+  {
+    'image':'assets/categories/Beverages.png',
+    'color':'#FFF6E3',
+    'title':'Beverages'
+  },
+  {
+    'image':'assets/categories/Edible oil.png',
+    'color':'#DCF4F5',
+    'title':'Edible oil'
+  },
+  {
+    'image':'assets/categories/vacuum.png',
+    'color':'#FFE8F2',
+    'title':'vacuum'
+  },
+  {
+    'image':'assets/categories/vegetabels.png',
+    'color':'#E6F2EA',
+    'title':'vegetabels'
+  },
+  {
+    'image':'assets/categories/vegetabels.png',
+    'color':'#E6F2EA',
+    'title':'vegetabels'
+  }, {
+    'image':'assets/categories/vegetabels.png',
+    'color':'#E6F2EA',
+    'title':'vegetabels'
+  },
+  {
+    'image':'assets/categories/vegetabels.png',
+    'color':'#E6F2EA',
+    'title':'vegetabels'
+  }, {
+    'image':'assets/categories/vegetabels.png',
+    'color':'#E6F2EA',
+    'title':'vegetabels'
+  },
+  {
+    'image':'assets/categories/vegetabels.png',
+    'color':'#E6F2EA',
+    'title':'vegetabels'
+  },
+];
